@@ -14,7 +14,7 @@ router.get('/speakers', function(req, res){
 		pageTitle: 'Speakers',
 		artwork: pagePhotos,
 		speakers: pageSpeakers,
-		pageId: 'speaker'
+		pageId: 'speakers'
 	});
 });
 
